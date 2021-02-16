@@ -4,7 +4,7 @@ from pygame import mixer
 import random
 import math
 pygame.init()
-#---------------------------------------------
+#--------------------------------------------
 
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 401
